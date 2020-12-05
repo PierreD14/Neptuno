@@ -9,7 +9,7 @@ body{
 
 #bvn{
 	font-size: 2.5vh;
-	animation: cssAnimation 0s 5.4s forwards;
+	animation: cssAnimation 0s 5.50s forwards;
 	visibility: hidden;
 	color: white;
 	text-align: auto;
